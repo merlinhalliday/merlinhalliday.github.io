@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Merlin&#39;s Cortex</title>
-    <link>/</link>
+    <link>https://merlinscortex.co.uk/</link>
     <description>Recent content on Merlin&#39;s Cortex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Sep 2020 23:38:57 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://merlinscortex.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://merlinscortex.co.uk/about/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://merlinscortex.co.uk/about/</guid>
       <description>On this site you will find a mixture of my personal projects and academic research, along with anything else that interests me. It also serves as my professional profile, so feel free to check out my CV or connect on LinkedIn.
 I am a Pharmacology graduate with a Masters in Neuroscience research. However, I am fascinated by all areas of science and technology. I first began to teach myself to code in Python, in the hopes of making the analysis of my research data easier.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>/gallery/about/</link>
+      <link>https://merlinscortex.co.uk/gallery/about/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>/gallery/about/</guid>
+      <guid>https://merlinscortex.co.uk/gallery/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About this site</title>
-      <link>/gallery/hugo/</link>
+      <link>https://merlinscortex.co.uk/gallery/hugo/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>/gallery/hugo/</guid>
+      <guid>https://merlinscortex.co.uk/gallery/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Merlin Halliday</title>
-      <link>/resume/</link>
+      <link>https://merlinscortex.co.uk/resume/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>/resume/</guid>
+      <guid>https://merlinscortex.co.uk/resume/</guid>
       <description>Email: merlin.halliday@myport.ac.uk
 Education University of Portsmouth: Masters of Research MRes ( Distinction ):
 (Feb 2018 – Feb 2019)
