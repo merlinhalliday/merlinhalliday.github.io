@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Merlin&#39;s Cortex</title>
-    <link>merlinscortex.co.uk/gallery/</link>
+    <link>https://merlinscortex.co.uk/gallery/</link>
     <description>Recent content in Galleries on Merlin&#39;s Cortex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Sep 2020 23:38:57 +0000</lastBuildDate>
     
-	<atom:link href="merlinscortex.co.uk/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://merlinscortex.co.uk/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>merlinscortex.co.uk/gallery/about/</link>
+      <link>https://merlinscortex.co.uk/gallery/about/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>merlinscortex.co.uk/gallery/about/</guid>
+      <guid>https://merlinscortex.co.uk/gallery/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About this site</title>
-      <link>merlinscortex.co.uk/gallery/hugo/</link>
+      <link>https://merlinscortex.co.uk/gallery/hugo/</link>
       <pubDate>Tue, 01 Sep 2020 23:38:57 +0000</pubDate>
       
-      <guid>merlinscortex.co.uk/gallery/hugo/</guid>
+      <guid>https://merlinscortex.co.uk/gallery/hugo/</guid>
       <description></description>
     </item>
     
