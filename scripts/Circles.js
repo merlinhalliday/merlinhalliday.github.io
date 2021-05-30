@@ -1,11 +1,15 @@
 function setup() {
-  createCanvas(700, 700);
-	background("red");	
+    createCanvas(windowWidth, windowHeight);
+    background("red");	
 }
 
 
 function mouseReleased() {
 	background("red");
-	ellipse(random(400), random(400), 50, 50);
+	ellipse(random(windowWidth), random(windowHeight), 50, 50);
 	print("here we go again")
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
