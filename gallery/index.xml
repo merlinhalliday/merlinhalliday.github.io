@@ -6,11 +6,7 @@
     <description>Recent content in Galleries on Merlin&#39;s Cortex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Sep 2020 23:38:57 +0000</lastBuildDate>
-    
-	<atom:link href="https://merlinscortex.co.uk/gallery/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Sep 2020 23:38:57 +0000</lastBuildDate><atom:link href="https://merlinscortex.co.uk/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://merlinscortex.co.uk/gallery/about/</link>

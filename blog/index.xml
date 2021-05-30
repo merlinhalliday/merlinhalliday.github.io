@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Merlin&#39;s Cortex</title>
+    <link>https://merlinscortex.co.uk/blog/</link>
+    <description>Recent content in Blogs on Merlin&#39;s Cortex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://merlinscortex.co.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cirlces</title>
+      <link>https://merlinscortex.co.uk/blog/circles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://merlinscortex.co.uk/blog/circles/</guid>
+      <description>Circles Example p5js</description>
+    </item>
+    
+  </channel>
+</rss>
